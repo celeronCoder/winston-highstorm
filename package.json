@@ -1,6 +1,6 @@
 {
   "name": "winston-highstorm",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A Winston Transport to Stream Data to Highstorm",
   "main": "dist/index.js",
   "scripts": {

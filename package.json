@@ -1,24 +1,25 @@
 {
   "name": "winston-highstorm",
   "version": "0.0.2",
-  "description": "A Winston Transform to Stream Data to Highstorm",
+  "description": "A Winston Transport to Stream Data to Highstorm",
   "main": "dist/index.js",
   "scripts": {
     "build": "npx tsc"
   },
   "keywords": [
     "winston",
+    "winston-transport",
     "highstorm"
   ],
   "author": "Khushal Bhardwaj <celeroncoder@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/celeronCoder/highstorm-winston"
+    "url": "https://github.com/celeronCoder/winston-highstorm"
   },
-  "homepage": "https://github.com/celeronCoder/highstorm-winston#readme",
+  "homepage": "https://github.com/celeronCoder/winston-highstorm#readme",
   "bugs": {
-    "url": "https://github.com/celeronCoder/highstorm-winston/issues",
+    "url": "https://github.com/celeronCoder/winston-highstorm/issues",
     "email": "celeroncoder@gmail.com"
   },
   "types": "./src/index.d.ts",
